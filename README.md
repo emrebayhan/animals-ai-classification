@@ -42,7 +42,9 @@ python app.py
 
 ## Ekran Görüntüleri:
 Gradio ile oluşturulan web arayüzü üzerinden resim yükleyip hayvan sınıflandırması yapılabilir:
+
 ![At tanıma örneği](screen1.PNG)
+
 ![Kedi tanıma örneği](screen2.PNG)
 
 ## Proje Yapısı ve Açıklamalar
@@ -71,7 +73,9 @@ Gradio ile oluşturulan web arayüzü üzerinden resim yükleyip hayvan sınıfl
 ## Model Performansı
 
 -  **Eğitim Süreci** : Aşağıdaki grafikte, modelin eğitim sürecindeki doğruluk (accuracy) ve kayıp (loss) değerlerinin zamana göre değişimi görülmektedir:
+  
 ![Eğitim geçmişi](training_history.png)
 
 -  **Karmaşıklık Matrisi** : Modelin hangi sınıflarda ne kadar doğru ve yanlış tahmin yaptığını gösteren karmaşıklık matrisi:
+  
 ![Karmaşıklık matrisi](confusion_matrix.png)
